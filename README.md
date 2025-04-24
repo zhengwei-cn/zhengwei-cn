@@ -9,7 +9,7 @@ Hi, I'm **zhengwei**, a passionate **backend developer** dedicated to building r
   - **ASP.NET Core**: Crafting scalable C# backend systems
   - **FastAPI / Flask**: Building Python-based web applications
   - RESTful API Design & Implementation
-  - **ORM**: TORTOISE_ORM, Entity Framework (EF)
+  - **ORM**: TORTOISE_ORM, Entity Framework (EF), SqlSugar
 
 ### 🗄️ **Databases**
 - MSSQL, MySQL, PostgreSQL
@@ -18,7 +18,7 @@ Hi, I'm **zhengwei**, a passionate **backend developer** dedicated to building r
 ### ⚙️ **Middleware & Tools**
 - **Redis**: Caching & Message Queue
 - **Docker**: Containerization for CI/CD pipelines
-- Version Control: Git, GitHub/GitLab, SVN
+- **RabitMQ**: Message Queue
 
 ## 🛠️ Project Experience
 - **High-Concurrency E-Commerce Systems**: Designed and implemented a backend system using **ASP.NET Core**, efficiently handling millions of user requests.
