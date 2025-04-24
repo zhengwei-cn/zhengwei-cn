@@ -37,5 +37,3 @@ Hi, I'm **zhengwei**, a passionate **backend developer** dedicated to building r
 Thank you for stopping by! I’m excited to collaborate and contribute to impactful projects. 😊
 
 --- 
-
-希望这版简介更简洁优美，同时突出你的技术能力和个人特色！
