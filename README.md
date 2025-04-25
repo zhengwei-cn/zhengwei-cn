@@ -1,15 +1,15 @@
 # About Me
 
-Hi, I'm **zhengwei**, a passionate **backend developer** dedicated to building robust, scalable systems. I thrive on leveraging diverse programming languages and cutting-edge technologies to solve challenging problems and drive innovation.
+Hi, I'm **ZHENGWEI**, a passionate **backend developer** dedicated to building robust, scalable systems. I thrive on leveraging diverse programming languages and cutting-edge technologies to solve challenging problems and drive innovation.
 
 ## 🌟 Skills Overview
 ### 🖥️ **Backend Development**
 - **Languages**: C#, Python
 - **Frameworks**:
   - **ASP.NET Core**: Crafting scalable C# backend systems
-  - **FastAPI / Flask**: Building Python-based web applications
+  - **FastAPI / Flask**: Building Python-based Web + AI Agent applications
   - RESTful API Design & Implementation
-  - **ORM**: TORTOISE_ORM, Entity Framework (EF), SqlSugar
+  - **ORM**: Entity Framework (EF), SqlSugar, TORTOISE_ORM
 
 ### 🗄️ **Databases**
 - MSSQL, MySQL, PostgreSQL
@@ -22,7 +22,7 @@ Hi, I'm **zhengwei**, a passionate **backend developer** dedicated to building r
 
 ## 🛠️ Project Experience
 - **High-Concurrency E-Commerce Systems**: Designed and implemented a backend system using **ASP.NET Core**, efficiently handling millions of user requests.
-- **Microservices Architecture**: Built modular, independent microservices with **FastAPI**, enabling streamlined development and deployments.
+- **AI Agent Development**: Built modular, intelligent agents using **FastAPI** for web-based AI applications.
 - **Database Integration**: Seamlessly integrated **MSSQL** and **PostgreSQL**, delivering optimized query performance.
 - **CI/CD Pipelines**: Streamlined development workflows through containerization with **Docker**.
 
@@ -36,4 +36,4 @@ Hi, I'm **zhengwei**, a passionate **backend developer** dedicated to building r
 
 Thank you for stopping by! I’m excited to collaborate and contribute to impactful projects. 😊
 
---- 
+---
