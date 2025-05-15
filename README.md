@@ -1,39 +1,20 @@
-# About Me
+# AI-Agent Project Development
 
-Hi, I'm **ZHENGWEI**, a passionate **backend developer** dedicated to building robust, scalable systems. I thrive on leveraging diverse programming languages and cutting-edge technologies to solve challenging problems and drive innovation.
+Welcome to my personal GitHub repository! I am currently focused on developing **AI-Agent** related projects, exploring their potential applications in real-world scenarios.
 
-## 🌟 Skills Overview
-### 🖥️ **Backend Development**
-- **Languages**: C#, Python
-- **Frameworks**:
-  - **ASP.NET Core**: Crafting scalable C# backend systems
-  - **FastAPI / Flask**: Building Python-based Web + AI Agent applications
-  - RESTful API Design & Implementation
-  - **ORM**: Entity Framework (EF), SqlSugar, TORTOISE_ORM
+## 🧠 Project Overview
+- **AI-Agent**: Developing modular, intelligent systems for task automation and decision support.
+- **Technology Stack**:
+  - **MCP**: For managing collaborative language models and workflows.
+  - **LangGraph**: For graph-based modeling and logical processing of complex language models.
+  - **FastAPI**: For quickly building and deploying web APIs.
 
-### 🗄️ **Databases**
-- MSSQL, MySQL, PostgreSQL
-- Expertise in optimizing query performance and storage solutions
-
-### ⚙️ **Middleware & Tools**
-- **Redis**: Caching & Message Queue
-- **Docker**: Containerization for CI/CD pipelines
-- **RabitMQ**: Message Queue
-
-## 🛠️ Project Experience
-- **High-Concurrency E-Commerce Systems**: Designed and implemented a backend system using **ASP.NET Core**, efficiently handling millions of user requests.
-- **AI Agent Development**: Built modular, intelligent agents using **FastAPI** for web-based AI applications.
-- **Database Integration**: Seamlessly integrated **MSSQL** and **PostgreSQL**, delivering optimized query performance.
-- **CI/CD Pipelines**: Streamlined development workflows through containerization with **Docker**.
-
-## 🚀 Current Learning
-- Exploring **mcp-agent** and **rag-framework** to expand my expertise.
+## 🚀 Current Progress
+- Designed and implemented core functional modules.
+- Optimized integration and performance of **MCP** and **LangGraph** frameworks.
+- Exploring new AI technologies to enhance system capabilities.
 
 ## 📫 Contact Information
 - GitHub: [zhengwei-cn](https://github.com/zhengwei-cn)
-
----
-
-Thank you for stopping by! I’m excited to collaborate and contribute to impactful projects. 😊
 
 ---
